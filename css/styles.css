@@ -95,7 +95,7 @@ address {
         letter-spacing: 0.02em;
         padding-top: 24px;
         padding-bottom: 24px;
-        transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+        transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-list-link:hover {
@@ -138,7 +138,7 @@ address {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .address-link:hover {
@@ -154,7 +154,7 @@ address {
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
     rgba(46, 47, 66, 0.7)), 
-     url(../images/Office\ 11.jpg);
+     url(../images/Office-11.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 188px;
@@ -222,6 +222,7 @@ background: #404bbf;
         border-radius: 4px;
         width: 264px;
 background: #f4f4fd;
+margin-bottom: 8px;
 }
 
 .features-item-svg {}
