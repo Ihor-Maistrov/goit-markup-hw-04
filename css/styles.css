@@ -305,6 +305,7 @@ width: calc((100% - 72px) / 4);
         letter-spacing: 0.02em;
         color: #434455;
         text-align: center;
+        margin-bottom: 8px;
 }
 
 .team-soc-list {
@@ -433,7 +434,6 @@ font-weight: 400;
 .footer-container {
     display: flex;
     align-items: baseline;
-    gap: 120px;
 }
 
 .footer-text-container {
